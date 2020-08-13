@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 ## GitHub Status :bar_chart:
-<hr>
-<img src="https://github-readme-stats.vercel.app/api?username=ArbitCode&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ArbitCode&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ArbitCode&layout=compact&theme=dark"/><br>
+</p>
 
 
 <!--
