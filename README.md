@@ -3,6 +3,13 @@
 <!--
 **ArbitCode/ArbitCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## GitHub Status :bar_chart:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ArbitCode&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ArbitCode&layout=compact&theme=dark"/><br>
+</p>
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
