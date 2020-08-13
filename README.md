@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## GitHub Status :bar_chart:
+### Hi there 👋, I'm <a href="https://www.linkedin.com/in/arbitcode">Raja Ram Sharma</a>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ArbitCode&show_icons=true&hide_border=true"/>
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ArbitCode&layout=compact&theme=dark"/><br>
