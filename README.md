@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 
-You have finally discovered my Github profile. <br>
+You have finally discovered me on Github. <br>
 Please feel free to clone or fork any project, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/ArbitCode/ArbitCode/issues/new"><b>here.</b></a><br>
 
