@@ -19,7 +19,7 @@ Ask me anything <a href="https://github.com/ArbitCode/ArbitCode/issues/new"><b>h
 <div align="center">
 
   
-   <a href="https://twitter.com/ArbitCode">
+   <a href="https://twitter.com/Rajaram_26">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/twitter.png"/>
 </a>
 
