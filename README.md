@@ -14,25 +14,6 @@ Ask me anything <a href="https://github.com/ArbitCode/ArbitCode/issues/new"><b>h
 
 </br>
 </br>
-
- 📫 How to reach me: 
-<div align="center">
-
-  
-   <a href="https://twitter.com/Rajaram_26">
-  <img align="left" width=70px src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arbitcode/">
-  <img align="center" width=70px src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
-</a>
-<a href="mailto:Rajaramsharma422@gmail.com">
-  <img align="right" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
-</a></br>
-</div>
-<br>
-<br>
-<br>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArbitCode&layout=compact)](https://github.com/ArbitCode/github-readme-stats)
