@@ -54,7 +54,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/5ddc150f-f4e1-4354-9a12-35a85138d700?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="../resource/dev.gif" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
