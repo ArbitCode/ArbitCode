@@ -1,5 +1,5 @@
 
-# Welcome to [ArbitCode.me](https://arbitcode.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [arbitcode.me](https://arbitcode.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <p align=center>
 <a href="https://www.linkedin.com/in/arbitcode/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
@@ -15,7 +15,7 @@
 
 ## 📊 Stats
 <p align=center>
-	<a href="https://github.com/ArbitCode/resume/raw/master/out/RajaRamSharma_C++_3_0Yrs.pdf"><img src="https://github.com/user-attachments/assets/f0a6ccd6-d9f5-4d7e-a117-9c31f8a1ebc8" alt="Resume"></a>
+	<a href="https://github.com/ArbitCode/resume/raw/master/out/RajaRamSharma_resume.pdf"><img src="https://github.com/user-attachments/assets/f0a6ccd6-d9f5-4d7e-a117-9c31f8a1ebc8" alt="Resume"></a>
 </p>
 
 <details>
@@ -48,42 +48,43 @@
 
 ## Glad to see you here! &nbsp; [![](https://hits.dwyl.com/ArbitCode/ArbitCode.svg?style=flat&show=unique)](http://hits.dwyl.com/ArbitCode/ArbitCode)
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+I am a Backend software engineer and writer. I love programming, reading, writing and speaking.
 
 As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/5ddc150f-f4e1-4354-9a12-35a85138d700?raw=true" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Senior Software Engineering Student**
-- 🔭 I’m currently working on [JU Query](https://github.com/AswinBarath/ju-query) platform
-- 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jain-university-ju/)
+- 👨‍🎓 I'm a **Senior Software Engineering Student** at **IBM Lab**
+- 🔭 I’m currently working on [CEPH](https://github.com/ceph/ceph) project.
+- 👨‍🏫 **Ex-Software Engineer at OpenText(Micro Focus)** in [Data Protector](https://docs.microfocus.com/doc/Data_Protector/24.4/GREforVirtualization) Team
 - 💬 Ask me about anything, I am happy to help
 - ✍ I'm a **Technical blogger** with 10,000+ user reads
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
-- 📬 How to reach me: [aswin2001barath@gmail.com](mailto:aswin2001barath@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
+  - 👯 About **Data Backup and disaster recovery(DBDR)** and **Object Storage** industry.
+  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/ArbitCode/)
+  - Tools and technologies using 
+    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a> ecosystem
+- 📬 How to reach me: [rajaramsharma422@gmail.com](mailto:rajaramsharma422@gmail.com)
+- 📝 [Resume](https://github.com/ArbitCode/resume/raw/master/out/RajaRamSharma_resume.pdf).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/AswinBarath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
+<a href="https://github.com/ArbitCode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://leetcode.com/aswinb/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ArbitCode/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9636122/raja-ram-sharma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.hackerrank.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://medium.com/@ArbitCode.me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://medium.com/@aswinbarath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://dev.to/aswinbarath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
+<a href="https://dev.to/arbitcode" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
 &nbsp;
 
 ---
