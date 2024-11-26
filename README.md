@@ -1,11 +1,11 @@
 
-# Welcome to [arbitcode.me](https://arbitcode.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [arbitcode.me](https://arbitcode.me/) profile! <a href="https://www.arbitcode.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <p align=center>
-<a href="https://www.linkedin.com/in/arbitcode/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arbitcode/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arbitcode" height="30" width="40" /></a>
 &nbsp;
-<a href="https://x.com/ArbitCode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://x.com/ArbitCode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ArbitCode" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/rajaram_26/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rajaram_26/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajaram_26" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.facebook.com/arbitcode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 </p>
@@ -76,15 +76,15 @@ That's why I like to make things that make a difference.
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ArbitCode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
+<a href="https://github.com/ArbitCode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ArbitCode" height="30" width="40" /></a>
 &nbsp;
-<a href="https://leetcode.com/u/ArbitCode/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ArbitCode/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ArbitCode" height="30" width="40" /></a>
 &nbsp;
 <a href="https://stackoverflow.com/users/9636122/raja-ram-sharma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
 &nbsp;
-<a href="https://medium.com/@ArbitCode.me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
+<a href="https://medium.com/@ArbitCode.me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ArbitCode.me" height="30" width="40" /></a>
 &nbsp;
-<a href="https://dev.to/arbitcode" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
+<a href="https://dev.to/arbitcode" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="arbitcode" height="30" width="40" /></a>
 &nbsp;
 
 ---
