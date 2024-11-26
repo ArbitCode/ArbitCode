@@ -1,3 +1,4 @@
+
 # Welcome to [ArbitCode's](https://arbitcode.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <p align=center>
 <a href="https://www.linkedin.com/in/arbitcode/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
@@ -13,7 +14,9 @@
 
 
 ## 📊 Stats
-
+<p align=center>
+	<a href="https://github.com/ArbitCode/resume/raw/master/out/RajaRamSharma_C++_3_0Yrs.pdf"><img src="https://github.com/user-attachments/assets/f0a6ccd6-d9f5-4d7e-a117-9c31f8a1ebc8" alt="Resume"></a>
+</p>
 
 <details>
   <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
