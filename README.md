@@ -1,5 +1,6 @@
 
 # Welcome to [arbitcode.me](https://arbitcode.me/) profile! <a href="https://www.arbitcode.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 <p align=center>
 <a href="https://www.linkedin.com/in/arbitcode/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arbitcode" height="30" width="40" /></a>
 &nbsp;
@@ -11,11 +12,10 @@
 </p>
 &nbsp;
 
-
-
 ## 📊 Stats
+
 <p align=center>
-	<a href="https://github.com/ArbitCode/resume/raw/master/out/RajaRamSharma_resume.pdf"><img src="https://github.com/user-attachments/assets/f0a6ccd6-d9f5-4d7e-a117-9c31f8a1ebc8" alt="Resume"></a>
+ <a href="https://github.com/ArbitCode/resume/raw/master/out/RajaRamSharma_resume.pdf"><img src="resource/resume.gif" alt="Resume"></a>
 </p>
 
 <details>
@@ -28,15 +28,14 @@
 
 </details>
 
-
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
-	  <p align=center>
+   <p align=center>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="ArbitCode's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ArbitCode&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="ArbitCode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbitCode&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="ArbitCode's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ArbitCode&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="ArbitCode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbitCode&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
   <br/>
-	  </p>
+   </p>
   ⚡ I'm a <b>Polyglot programmer</b> in diverse languages
   <br/>
   ⚠ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -54,10 +53,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="../resource/dev.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="resource/dev.gif" width="408" height="318" />
 
-
-### Talking about Personal Stuff:
+### Talking about Personal Stuff
 
 - 👨‍🎓 I'm a **Senior Software Engineering Student** at **IBM Lab**
 - 🔭 I’m currently working on [CEPH](https://github.com/ceph/ceph) project.
@@ -67,7 +65,7 @@ That's why I like to make things that make a difference.
 - 🌱 I'm currently learning:
   - 👯 About **Data Backup and disaster recovery(DBDR)** and **Object Storage** industry.
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/ArbitCode/)
-  - Tools and technologies using 
+  - Tools and technologies using
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a> ecosystem
@@ -150,5 +148,5 @@ That's why I like to make things that make a difference.
 
 ## 📕Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-  -
+-
 <!-- BLOG-POST-LIST:END -->
