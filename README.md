@@ -61,7 +61,6 @@ That's why I like to make things that make a difference.
 - 🔭 I’m currently working on [CEPH](https://github.com/ceph/ceph) project.
 - 👨‍🏫 **Ex-Software Engineer at OpenText(Micro Focus)** in [Data Protector](https://docs.microfocus.com/doc/Data_Protector/24.4/GREforVirtualization) Team
 - 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Technical blogger** with 10,000+ user reads
 - 🌱 I'm currently learning:
   - 👯 About **Data Backup and disaster recovery(DBDR)** and **Object Storage** industry.
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/ArbitCode/)
