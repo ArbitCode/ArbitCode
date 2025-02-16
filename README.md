@@ -69,7 +69,7 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a> ecosystem
 - 📬 How to reach me: [rajaramsharma422@gmail.com](mailto:rajaramsharma422@gmail.com)
-- 📝 [Resume](https://github.com/ArbitCode/resume/raw/master/out/RajaRamSharma_resume.pdf).
+- 📝 [Resume](https://drive.google.com/file/d/11pbGw8lnnMxAlDzV-zXrejgkBi8hZeOl/view).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
