@@ -15,7 +15,7 @@
 ## 📊 Stats
 
 <p align=center>
- <a href="https://drive.google.com/file/d/1NJzODnxPDDbG5ewOd1o6uzXyhdzbVsp9/view"><img src="resource/resume.gif" alt="Resume"></a>
+ <a href="https://drive.google.com/file/d/11pbGw8lnnMxAlDzV-zXrejgkBi8hZeOl/view"><img src="resource/resume.gif" alt="Resume"></a>
 </p>
 
 <details>
