@@ -18,7 +18,7 @@
  <a href="https://drive.google.com/file/d/11pbGw8lnnMxAlDzV-zXrejgkBi8hZeOl/view"><img src="resource/resume.gif" alt="Resume"></a>
 </p>
 
-<details>
+
   <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
   <br/>
 
@@ -26,9 +26,9 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArbitCode&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
-</details>
 
-<details>
+
+
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
    <p align=center>
   <br/>
@@ -36,12 +36,8 @@
  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="ArbitCode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbitCode&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
   <br/>
    </p>
-  ⚡ I'm a <b>Polyglot programmer</b> in diverse languages
-  <br/>
-  ⚠ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br />
 
-</details>
+
 
 ---
 
