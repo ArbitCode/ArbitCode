@@ -45,8 +45,6 @@
 
 I am a Backend software engineer and writer. I love programming, reading, writing and speaking.
 
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
-
 That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="resource/dev.gif" width="408" height="318" />
@@ -57,13 +55,7 @@ That's why I like to make things that make a difference.
 - 🔭 I’m currently working on [CEPH](https://github.com/ceph/ceph) project.
 - 👨‍🏫 **Ex-Software Engineer at OpenText(Micro Focus)** in [Data Protector](https://docs.microfocus.com/doc/Data_Protector/24.4/GREforVirtualization) Team
 - 💬 Ask me about anything, I am happy to help
-- 🌱 I'm currently learning:
-  - 👯 About **Data Backup and disaster recovery(DBDR)** and **Object Storage** industry.
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/ArbitCode/)
-  - Tools and technologies using
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a> ecosystem
+
 - 📬 How to reach me: [rajaramsharma422@gmail.com](mailto:rajaramsharma422@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/11pbGw8lnnMxAlDzV-zXrejgkBi8hZeOl/view).
 - 💪 This is where I write, code and solve problems:
